@@ -18,3 +18,4 @@ This package is developed in Windows platform. The programming Language
 used is ASP.NET . SQL Server is used as an backend database for details.
 
 I have attached my project's documentation in this repository.
+[SALON AND SPA FINAL BIND.pdf](https://github.com/Shrihari2206/My-College-project/files/10444644/SALON.AND.SPA.FINAL.BIND.pdf)
