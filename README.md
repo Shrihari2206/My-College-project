@@ -1,4 +1,4 @@
-# My-College-project
+# My-College-project(Individual Project)
 
 Online Saloon Booking System using HTML , CSS and ASP.NET
 
